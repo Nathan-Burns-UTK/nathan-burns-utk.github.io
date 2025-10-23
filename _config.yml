@@ -24,11 +24,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Nathan Burns"
+  pronouns         : "He/Him"  
+  bio              : "Mathematics Ph.D student working in the fields of Geometric Analysis"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "The University of Tennessee, Knoxville"
   uri              : # URL
   email            : "none@example.org" 
 
