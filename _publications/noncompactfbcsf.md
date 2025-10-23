@@ -4,7 +4,7 @@ collection: publications
 category: preperation
 permalink: /publication/noncompactfbcsf
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: (Hopefully) 2025
+date: 2025
 venue: 'In Preperation'
 ---
 
