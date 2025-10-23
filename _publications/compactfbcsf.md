@@ -3,7 +3,7 @@ title: "Classification of Convex Ancient Solutions to Free Boundary Curve Shorte
 collection: publications
 category: manuscripts
 permalink: /publication/compactfbcsf
-excerpt: 'We classify convex ancient solutions to the free boundary curve shortening flow for general closed convex free boundaries.'
+excerpt: 'Theodora Bourni, Nathan Burns, Spencer Catron.'
 date: June 2025
 venue: The Journal of Geoemtric Analysis
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
