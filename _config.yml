@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "nathan.png"
   name             : "Nathan Burns"
   pronouns         : "He/Him"  
   bio              : "Mathematics Ph.D student working in the field of Geometric Analysis"
