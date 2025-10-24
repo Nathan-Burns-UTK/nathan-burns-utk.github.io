@@ -8,38 +8,21 @@ redirect_from:
 ---
 
 {% include base_path %}
+A PDF version of my CV can be accessed here.
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mathematics, University of Tennessee, 2026 (expected)
+* M.Math in University of Edinburgh, 2020
 
-Work experience
+Service
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Co-organizer for the Geometric Analysis Seminar at the University of Tennessee.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Academic Activity
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Academic Visitor - Australian National University - March 2025
+* Programm associate - SLMath (New Frontiers in Curvature: Flows, General Relativity, Minimal Submanifolds, and Symmetry) - November 2025
 
 Publications
 ======
@@ -59,6 +42,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Fellowships and Awards
 ======
-* Currently signed in to 43 different slack teams
+* Summer Departmental Research Fellowship - Summer 2025
+* Spike Tickle STEM Endowed Fellowship - Spring 2025
+* Graduate Student Fellowship (Passing Oral Exam Early) - Spring 2024
+* Graduate Student Academic Achievement Award - Spring 2024
+* Graduate Student Fellowship (Passing Preliminary Exams Early) - Spring 2023
+* F.M Dryzer Memorial Fellowship - Fall 2021
+* Graduate School Fellowship - Semesterly During Graduate School
