@@ -7,4 +7,4 @@ venue: "Geometric Analysis Seminar"
 date: 2025-03-05
 location: "Australian National University, Canberra, Australia"
 ---
-Talk on the paper with the same title.
+A talk on the paper with the same title.
