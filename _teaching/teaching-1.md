@@ -5,6 +5,7 @@ type: "Undergraduate Classes"
 permalink: /teaching/teaching-1
 venue: "University of Tennessee"
 location: "Knoxville"
+date: 2026/07/01
 ---
 
 Taught numerous classes both and an instructor of record and as a teaching assistant.
