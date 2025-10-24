@@ -7,6 +7,8 @@ venue: "University of Tennessee"
 location: "Knoxville"
 ---
 
+Taught numerous classes both and an instructor of record and as a teaching assistant.
+
 Instructor of Record
 ======
 Math 152 - Calculus for the Life Sciences (2 Sections)\
