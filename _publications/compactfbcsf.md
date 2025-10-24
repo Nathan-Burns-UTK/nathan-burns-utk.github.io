@@ -6,7 +6,7 @@ permalink: /publication/compactfbcsf
 excerpt: 'Theodora Bourni, Nathan Burns, Spencer Catron.'
 date: June 2025
 venue: The Journal of Geoemtric Analysis
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://academicpages.github.io/files/ancientfbcsf.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Theodora Bourni, Nathan Burns, and Spencer Catron. &quot;Classification of Convex Ancient Solutions to Free Boundary Curve Shortening Flow In Convex Domains.&quot; <i>Journal of Geometric Analysis</i>. 35.7 (June 2025).'
 ---
